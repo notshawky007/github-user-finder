@@ -1,6 +1,7 @@
 # GitHub User Finder
 
-![GitHub User Finder Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/66558e4b-e4c7-4c69-b6d9-eb7d45c3d15f)
+
 
 A modern and user-friendly web application to explore GitHub profiles effortlessly. Search for any GitHub user and access detailed information including:
 
